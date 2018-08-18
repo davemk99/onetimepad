@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneTimePad", "OneTimePad\OneTimePad.csproj", "{70CA04AC-8D0F-4695-A223-91BBE4446FC2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneTimePad.Test", "OneTimePad.Test\OneTimePad.Test.csproj", "{5189E31D-8D20-427C-8E27-AF19BF966EF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{70CA04AC-8D0F-4695-A223-91BBE4446FC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70CA04AC-8D0F-4695-A223-91BBE4446FC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70CA04AC-8D0F-4695-A223-91BBE4446FC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5189E31D-8D20-427C-8E27-AF19BF966EF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5189E31D-8D20-427C-8E27-AF19BF966EF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5189E31D-8D20-427C-8E27-AF19BF966EF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5189E31D-8D20-427C-8E27-AF19BF966EF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
